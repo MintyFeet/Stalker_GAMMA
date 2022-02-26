@@ -6,7 +6,7 @@ https://www.moddb.com/addons/start/208786	Anomaly Radios Extended - 1.5.1	0	Anom
 https://www.moddb.com/addons/start/209799	0	0	EFTAimRattle
 https://www.moddb.com/addons/start/212035	EFT Jump and Land SFX - HarukaSai	0	EFTJump
 https://www.moddb.com/addons/start/214982	USEC voice lines replace for Mercs - Definitive edition	0	EFTMercEnglish
-https://www.moddb.com/addons/start/210999	Exo Servo Sounds v 1.4\!Normal version	0	ESS
+https://www.moddb.com/addons/start/210999	0	0	ESS
 https://www.moddb.com/addons/start/211741	General Fire Mode Switcher Sound	0	Fire Mode Switcher
 https://www.moddb.com/addons/start/208267	[1.1.0] Grok's Better Sound for Anomaly 1.5.1\bin	0	Grok better sound
 https://www.moddb.com/addons/start/210902	0	0	Preblowout Murder
@@ -19,11 +19,13 @@ https://www.moddb.com/addons/start/220405	Inventory open and close	0	Inventory o
 https://www.moddb.com/addons/start/183808	MAIN FILES:Standard	0	Ambient Music Pack
 https://www.moddb.com/addons/start/216185	Desman's Horror Overhaul	0	DesmanHorror
 https://www.moddb.com/addons/start/202073	NPC Footstep Misery Boots	0	Misery Boots
+https://www.moddb.com/addons/start/221188	new footsteps by  YUNGPR1NCE_demo4	0	YoungPrince New Footsteps
+https://www.moddb.com/addons/start/183359	EFTfootstep1.1	0	EFT footsteps and tinnitus 1.1
 Visual
 https://www.moddb.com/addons/start/217376	0	0	Grok's Optimized Graphics Patcher
 https://www.moddb.com/addons/start/208642	Agressor 1.0\Custom Weather:Agressor 1.0\Optional\Anomaly Ground Edit	0	Agressor Reshade
 https://www.moddb.com/downloads/start/205025	T.H.A.P REV ANOMALY EDITION	0	THAP
-https://www.moddb.com/addons/start/217507	T.H.A.P. Rework 2.0	0	THAP Rework
+https://www.moddb.com/addons/start/217507	T.H.A.P. Rework 2.0.1/T.H.A.P. Rework 2.0:T.H.A.P. Rework 2.0.1/T.H.A.P. Rework 2.0 Ecologists alternative hands huds (optional)	0	THAP Rework
 https://www.moddb.com/addons/start/208873	01 Enhanced Shaders - PBR:02 Enhanced Color Grading:02 Enhanced Color Grading\appdata:Optional - Corrected Cubemaps:Optional - shader_param controls - simple:Optional - shader_param controls - simple\appdata	0	Enhanced Shaders
 https://www.moddb.com/addons/start/215198	Glossy Surfaces SSR:Glossy Surfaces SSR - Water (Optional)	0	Water SSR
 https://www.moddb.com/addons/start/215198	Glossy Surfaces SSR - ES PBR Patch	_EnhancedShaderPBR_patch	Water SSR patches
@@ -31,15 +33,19 @@ https://www.moddb.com/addons/start/211828	00 Skies Redux - 1K Option	0	Skies Red
 https://www.moddb.com/addons/start/184325	0	0	High Res Loading Screens
 https://www.moddb.com/addons/start/184227	High Res PDA Maps:Optional Campfire Icons	0	High Res PDA Maps
 https://www.moddb.com/addons/start/216034	0	0	TB Fairer Thermal Anomalies
+https://www.moddb.com/addons/start/219214	21 game\CORE	0	Black Jack
 https://www.moddb.com/addons/start/208861	Dux's Innumerable Character Kit:Dux's Innumerable Character Kit\Dux's Innumberable Character Kit - BaS Patch	_with_BAS_patch	DICK
+https://www.moddb.com/addons/start/208861	Dux's Innumerable Character Kit/Dux's Innumerable Character Kit - Blackjack Patch	_Blackjack_patch	DICK BJ patch 
 https://www.moddb.com/addons/start/222685	addons\UNISG Overhaul:addons\SEVA Glass Variety	0	Fixed Vanilla Models and Textures
-https://www.moddb.com/addons/start/226174	0	0	Yohji persistant weathers
-https://www.moddb.com/addons/start/224866	0	0	Blood decals (need to patch system.ltx)
+https://www.moddb.com/addons/start/227529	HDMutants	0	Umbrellord HD mutant models and textures
+https://www.moddb.com/addons/start/214966	Nicer Flashlights Addon v1.7\Nicer Flashlights Addon Imperfect 9	0	Nicer Flashlights
 Animations
+https://www.moddb.com/addons/start/208349	[OPTIONALS]\Vanilla Weapon Stats	0	Blindside
 https://www.moddb.com/addons/start/213263	REMADE ANIMATIONS\remade_animations.3\remade animations	0	RemadeAnimations
-https://www.moddb.com/addons/start/209819	0	0	FDDA
+https://github.com/Grokitach/anomaly_fdda/archive/refs/heads/main.zip	\anomaly_fdda-main	0	FDDA
 https://www.moddb.com/addons/start/211277	Lower_Weapon_Sprint_v1.2.0.3	0	LowerSprintAnimaiton
 https://www.moddb.com/addons/start/217738	Camera Reanimation Project - I.N.E.R.T.I.A. V1.2	0	INERTIA
+https://www.moddb.com/addons/start/214170	Souvlaki's FAL 2.0 with EFT FOV
 Gameplay
 https://www.moddb.com/addons/start/210626	0	0	BountySquadsExtended
 https://www.moddb.com/addons/start/207498	Stealth_2.0	0	Stealth
@@ -47,8 +53,6 @@ https://www.moddb.com/addons/start/201679	0	0	OutfitsAffectsMovespeed
 https://github.com/ahuyn/anomaly-exo/archive/refs/tags/latest.zip	anomaly-exo-latest	0	Powered Exos
 https://github.com/ahuyn/anomaly-exo/archive/refs/tags/latest.zip	anomaly-exo-latest\exo servo patch	_ExoServomotorSounds_patch	Powered Exos
 https://www.moddb.com/addons/start/213840	0	0	ZCP
-https://www.moddb.com/addons/start/219214	21 game\CORE	0	Black Jack
-https://www.moddb.com/addons/start/208861	Dux's Innumerable Character Kit/Dux's Innumerable Character Kit - Blackjack Patch	_Blackjack_patch	DICK BJ patch
 https://www.moddb.com/addons/start/223861	0	0	Haruka Skill System
 https://www.moddb.com/addons/start/207876	0	0	Disable Burnt Fuzz
 https://www.moddb.com/addons/start/211466	main	0	Tougher important NPCs and companions
@@ -58,14 +62,14 @@ https://www.moddb.com/addons/start/225217	0	0	Companions carry weight tweak
 https://www.moddb.com/addons/start/224977	Lsz\2_Addons\21_Lsz_Ai_Tweaks	_AI_tweak	Lsz AI tweak
 https://www.moddb.com/addons/start/224977	Lsz\2_Addons\6_Lsz_Levels_Effects	_Remove_special_effects_in_maps	Lsz Levels Effects
 https://www.moddb.com/addons/start/215052	00 Dynamic_NPC_Armor_Visuals	_companions_change_armor	DNPCAV
+https://www.moddb.com/addons/start/194204	0	0	Mutants Bleeding 
 Stashes
-https://www.moddb.com/addons/start/214163	0		New Stashes Location
-https://www.moddb.com/addons/start/213728	0		Fixes bugged stashes
+https://www.moddb.com/addons/start/214163	0	0	New Stashes Location
+https://www.moddb.com/addons/start/213728	0	0	Fixes bugged stashes
 https://www.moddb.com/addons/start/200140	00. Grok's Stash Overhaul	0	Grok Stash Overhaul
 https://www.moddb.com/addons/start/200140	01. TB Fix Bugged Stashes Patch	_TBFixBuggedStashes_patches	Grok Stash Overhaul TBFix
 https://www.moddb.com/addons/start/200140	OPT. No loot in unmarked stashes	 No loot in unmarked stashes	Grok Stash Overhaul No Loot
 https://www.moddb.com/addons/start/200140	OPT. No loot in unmarked stashes - BaS Patch	_BAS_NoLootInUnmarkedStashes_patches	Grok Stash Overhaul BAS
-https://www.moddb.com/addons/start/194204	0	0	Mutants Bleeding
 Gunplay
 https://www.moddb.com/addons/start/213437	Fluid_Aim_v1.2.3	0	Fluid Aim
 https://www.moddb.com/addons/start/217186	00. Main EFT reposition	0	Alternate Sights and EFT Reposition
@@ -112,12 +116,13 @@ https://www.moddb.com/addons/start/208216	Remove dropping weapons from damage	0	
 https://www.moddb.com/addons/start/208560	0	0	MCM
 https://www.moddb.com/addons/start/208762	0	0	SortingPlus
 https://www.moddb.com/addons/start/210584	Immersive_Sleep_v1.2.1\Immersive Sleep v1.2.1	0	Immersive Sleep
-https://www.moddb.com/addons/start/209819	patches\Immersive Sleep	_FDDA_immersive_sleep_patch	FDDA Immersive Sleep Patch
+https://github.com/Grokitach/anomaly_fdda_patches/archive/refs/heads/main.zip	\anomaly_fdda_patches-main\patches\Immersive Sleep	_FDDA_immersive_sleep_patch	FDDA Immersive Sleep Patch
 https://www.moddb.com/addons/start/204947	Knife-Binoc-pistol	0	Knife Pistol in Binocular Slot
 https://www.moddb.com/addons/start/212541	Lowered cost (15+30 patches)	0	Aslan Lottery Fixes
 https://www.moddb.com/addons/start/209086	cozy	_campfires_regen_health	Cozy Campfire
 https://www.moddb.com/addons/start/198499	Dialogue Expanded v4	0	Dialogues Expanded
 https://www.moddb.com/addons/start/213337	0	0	Grok Gotta Go Fast
+https://www.moddb.com/addons/start/226837	Gotta Go Also Slow	0	Gotta go Also Slow
 https://www.moddb.com/addons/start/214025	0	0	Glowsticks
 https://www.moddb.com/addons/start/214025	addons\HD Glowsticks	_HDGlowsticks	Glowsticks
 https://www.moddb.com/addons/start/214025	addons\Enhanced Shaders Patch	_EnhancedShader_patch	Glowsticks
@@ -126,6 +131,7 @@ https://www.moddb.com/addons/start/204482	0	0	He is with me
 https://www.moddb.com/addons/start/218478	Oni's Tales From the Zone	0	Oni's Tale Loading Screens
 https://www.moddb.com/addons/start/210450	Talk to Everyone:Suppressor Changes:More Surrenders + Faster Execute:Longer NPC Loot Range:Less NPC Jamming:Higher Wound Percent:Companions dont blow Disguises:Remove Mutant AutoAim	0	Modular Tweaks
 https://www.moddb.com/addons/start/218608	BoltBeGone:BoltManager:CharacterNameSaves:CrashesToRiches\scripts:FastTransfer:GeigerHush:KeepBolts:LogFixDefaultControls:NoInventoryCloseDisassembly:ReadWatch:SkinningWithSpace:StatsDisplay:TotalWeights:UnloadAll	0	Nitpickers Modpack
+https://www.moddb.com/addons/start/212677	Quick Companion Teleport	0	Quick Companion Teleport
 https://www.moddb.com/addons/start/216293	0	0	TB New Safe Zones
 https://www.moddb.com/addons/start/214285	0	0	TB Companions no headlamps in Stealth
 https://www.moddb.com/addons/start/213901	0	0	Toggle Scope
@@ -137,14 +143,15 @@ https://www.moddb.com/addons/start/185349	0	0	Life granter Counter
 https://www.moddb.com/addons/start/219766	Companion_Anti_Awol_v1.0.1	0	Companion anti awol
 https://www.moddb.com/addons/start/226129	Combine All Items	0	Combine all items
 https://www.moddb.com/addons/start/203251	0	0	Companions Inventory Unlock
-https://www.moddb.com/addons/start/209099	lc_bar_garbage	_Bar garbage shorter transition	Bar garbage shorter transition
 https://www.moddb.com/addons/start/208741	0	0	No more companions friendly fire
+https://www.moddb.com/addons/start/227328	Weapons Drop on Bodies	0	Jabbers Weapons Drop on bodies
 Craft and Repair
 https://www.moddb.com/addons/start/200532	[1.2.0] Grok's Craft and Repair Overhaul\Grok's Craft and Repair Overhaul - Modular\GCRO - No recipes:[1.2.0] Grok's Craft and Repair Overhaul\Grok's Craft and Repair Overhaul - Modular\GCRO - Toolkits usable as workbench by 1917 and Michiko	0	Grok's Craft and Repair Overhaul
-https://github.com/ahuyn/anomaly-wpo/archive/refs/tags/latest.zip	anomaly-wpo-latest:anomaly-wpo-latest\unjam keybind	0	WPO
+https://github.com/ahuyn/anomaly-wpo/archive/4397a27511e8119dd947efa22c024d0d79a88764.zip	anomaly-wpo-4397a27511e8119dd947efa22c024d0d79a88764:anomaly-wpo-4397a27511e8119dd947efa22c024d0d79a88764\unjam keybind	0	WPO
 https://www.moddb.com/addons/start/211552	v2.5Crafting_With_MultiUse_Items_Fix + Patches\Main	0	Fixed Crafting with Multi-Use Items
 https://www.moddb.com/addons/start/211552	v2.5Crafting_With_MultiUse_Items_Fix + Patches\Main + Weapon Parts Overhaul Patch	_WPO_patch	Fixed Crafting with Multi-Use Items
 https://www.moddb.com/addons/start/221624	Disassembly Chance Tweak	0	Adjust Part Scavenging Chance
+https://www.moddb.com/addons/start/221624	WPO Patch	_WPO_patch	Adjust Part Scavenging Chance
 https://www.moddb.com/addons/start/218205	Keep Crafting Window Open	0	Keep Crafting Window Opened
 https://www.moddb.com/addons/start/219778	Prefer Best Disassembly Tool	0	Prefer Best Disassembly Tool
 https://github.com/ahuyn/anomaly-compilation/archive/refs/tags/latest.zip	anomaly-compilation-latest\ammo maker:anomaly-compilation-latest\ammo maker\no recipes mode	_ammo_maker	Arti Ammo Maker
@@ -163,7 +170,8 @@ https://www.moddb.com/addons/start/220056	Starting Loadout Rebalanced\Main File 
 https://www.moddb.com/addons/start/212930	01. Grok's No Exos in the South	0	No Exos in the South
 https://www.moddb.com/addons/start/223014	0	0	Fixed Player Thermal Res
 https://www.moddb.com/addons/start/226308	ABF\ABF\ABF ) ARX - Module 2 - Anomalies + Actor + Poltergeist:ABF\ABF\ABF ARX -- Tweaks\3. Poltergeist harder:ABF\ABF\ABF ARX -- Compatibility\Soundscape Burer Compatibility	0	ABF
-https://www.moddb.com/addons/start/224703	1A)   ARX  - module - Focus Spawn tiers	0	ARX
+https://www.moddb.com/addons/start/227214	Extra Level Transitions	0	Extra level transitions
+https://www.moddb.com/addons/start/226592	bar_duty_order	_military_player_safe_in_rostok	Military not attacked by duty at Rostok
 UI
 https://www.moddb.com/addons/start/223408	00. Crook's Faction Identification UI:OPT01. Small Patches Display:OPT02. Grok's Body Health System patch	0	Crook's Identification UI
 https://www.moddb.com/addons/start/214124	Hunger_thirst_sleep_UI_0.6\00. UI Main	0	Hunger Thirst Sleep UI
@@ -181,7 +189,7 @@ https://www.moddb.com/addons/start/203831	0	0	BatteryWarning
 https://www.moddb.com/addons/start/203787	0	0	Encyclopedia Messages Restored
 https://www.moddb.com/addons/start/212938	0	0	Minimap Toggle
 https://www.moddb.com/addons/start/222680	Free_Zoom	0	Free Zoom
-https://www.moddb.com/addons/start/226172	CrimsonVirus_OCD_fixes_v1.8\Encyclopedia_ui_fixes
+https://www.moddb.com/addons/start/226172	CrimsonVirus_OCD_fixes_v1.9.5\Encyclopedia_ui_fixes:CrimsonVirus_OCD_fixes_v1.9.5\Dialogue_&_description_edits:CrimsonVirus_OCD_fixes_v1.9.5\Rain_sound_tweak	0	Encyclopedia Fixes
 High Priority
 https://www.moddb.com/addons/start/209945	00. Grok's Ballistics Overhaul	0	GBOOBS
 https://www.moddb.com/addons/start/209945	GBOOBS Vanilla Ammo Icons Patch	_Vanilla_ammo_icons_patch	GBOOBS vanilla ammo
@@ -191,8 +199,7 @@ https://www.moddb.com/addons/start/219923	ShaderDrivenScopes - DLTX	0	Shader Dri
 https://www.moddb.com/addons/start/219923	ShaderDrivenScopes - BaS Patch	_BaS_patch	Shader Driven Scopes
 https://www.moddb.com/addons/start/223134	Beef's NVGs	0	Beef's NVG
 https://www.moddb.com/addons/start/223134	Beef's NVGs - Patch (ES AND SSR)	_ES_and_SSR_patches	Beef's NVG
-https://www.moddb.com/addons/start/208407	cinematicvfx3.5-upd1.1\00.CinematicVFX3.5UPD1.1 - Core	0	CVFX
-https://www.moddb.com/addons/start/226999	Blood of the Zone\Blood of the Zone - Standalone(Vanilla):Blood of the Zone\BOTZ - Cinematic VFX\Gamedata	_with_CVFX_patch	Blood of the Zone
+https://www.moddb.com/addons/start/208407	Cinematicvfx3.6\00. Core (Install Always):Cinematicvfx3.6\01. Blood Option - More Bloody:Cinematicvfx3.6\Bonus 2 - Gauss Sound Sweetener:Cinematicvfx3.6\Bonus 3 - No Frag Rounds Patch:Cinematicvfx3.6\Bonus - Giant Blood Marks on Impact	0	CVFX
 DLTX
 https://www.moddb.com/addons/start/219570	Bigger Surrender Chance_DLTX	_bigger_surrender_chance	DLTX Minimodpack
 https://www.moddb.com/addons/start/219570	Food_Drugs_and_Drinks_EXTRA_ANIMATIONS_DLTX	_FDDA_extra_animations	DLTX Minimodpack
@@ -202,21 +209,25 @@ https://www.moddb.com/addons/start/219570	Less Weight Parts_DLTX	_less_weight_pa
 https://www.moddb.com/addons/start/219570	Loot Crows_DLTX	_loot_crows	DLTX Minimodpack
 https://www.moddb.com/addons/start/219570	More drops from drugs_DLTX	_more_drops_from_drugs	DLTX Minimodpack
 https://www.moddb.com/addons/start/219570	Rats_are_not_enemies_DLTX	_rats_are_not_ennemies	DLTX Minimodpack
-https://www.moddb.com/addons/start/219570	STORYLINES_DLTX	_additionnal_storylines	DLTX Minimodpack
 https://www.moddb.com/addons/start/219570	The_G36_Pack NPC Files_DLTX	_g36_pack_npc_loadouts	DLTX Minimodpack
 https://www.moddb.com/addons/start/219570	Toolkit Remap_DLTX	_toolkit_remap	DLTX Minimodpack
+Missions
+https://www.moddb.com/addons/start/221876	MotZ dialogue unlocker	0	Mystery of the Zone new quest	
+https://www.moddb.com/addons/start/219570	STORYLINES_DLTX	_additionnal_storylines	DLTX Minimodpack
+https://www.moddb.com/addons/start/226977	duty_expansion	0	Duty Expansion
 Optional
-https://www.moddb.com/addons/start/218608	NahMusic	_Nah_music	Disables Music in game but not in main menu
-https://www.moddb.com/addons/start/215063	BEAR voice lines replacement for Duty	0	BEAR Voice lines for Duty
-https://www.moddb.com/addons/start/209836	CR3PIS_ICONS\MAIN\1A_VANILLA_MODELS:CR3PIS_ICONS\PATCHES\1_NEW_AMMO_ICONS_FOR_GBOOBS:CR3PIS_ICONS\PATCHES\1_NEW_AMMO_ICONS_FOR_GBOOBS\1B_TEXT	0	Cr3pis Icon Pack
-https://www.moddb.com/addons/start/209836	CR3PIS_ICONS\PATCHES\2_BAS_PATCH	_BAS_Patch_icons_no_text	Cr3pis icons without text
 https://www.moddb.com/addons/start/207498	(Patch) Death Animations	_Death_animations	Stealth
-https://www.moddb.com/addons/start/223090	[00 B. HD Icons + Indicators (Vanilla)]	0	Maids HD icons
+https://www.moddb.com/addons/start/218608	NahMusic	_Nah_music	Disables Music in game but not in main menu
+https://www.moddb.com/addons/start/209836	CR3PIS_ICONS\MAIN\1A_VANILLA_MODELS	0	Cr3pis Icon Pack
+https://www.moddb.com/addons/start/209836	CR3PIS_ICONS\PATCHES\2_BAS_PATCH	_BAS_Patch_icons_no_text	Cr3pis icons without text
+https://www.moddb.com/addons/start/223090	\[23 B. AIO Icon Texture File Indicators]\	0	Maids HD icons
 https://www.moddb.com/addons/start/212310	experimental_ old and new ammo merge	0	Old to ammo to new ammo converter
-https://www.moddb.com/addons/start/215257	0	0	Minecraft Respawn
 https://www.moddb.com/addons/start/211159	NPC Loot Claim - Main	0	NPC Loot Claim
 https://www.moddb.com/addons/start/224324	0	0	Trader Destockifier
 https://www.moddb.com/addons/start/184490	Trader Overhaul (Main Folder)	0	Trader Overhaul
 https://www.moddb.com/addons/start/224947	eft reposition patch:bas_patch:ammo_check	_with_EFT_repos_BAS_patches_and_ammo_check	Mags Redux
-https://www.moddb.com/addons/start/224977	Lsz\2_Addons\2_Lsz_Menu_Dialogs	_alternative_dialog_UI	Lsz dialogs
+https://www.moddb.com/addons/start/206604	TBLWC\For Level Transition Travel Simulator	_travel_without_confirmation_with_transition_time_simulator	Transition Travel
+Warfare (Optional)
+https://www.moddb.com/addons/start/195178	Warfare Alife Overhaul - Main	0	Warfare A life overhaul
+https://www.moddb.com/addons/start/209072	0	0	Fluid Relations
 G.A.M.M.A. Add-ons
