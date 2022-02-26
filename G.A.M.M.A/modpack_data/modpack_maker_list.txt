@@ -37,6 +37,7 @@ https://www.moddb.com/addons/start/219214	21 game\CORE	0	Black Jack
 https://www.moddb.com/addons/start/208861	Dux's Innumerable Character Kit:Dux's Innumerable Character Kit\Dux's Innumberable Character Kit - BaS Patch	_with_BAS_patch	DICK
 https://www.moddb.com/addons/start/208861	Dux's Innumerable Character Kit/Dux's Innumerable Character Kit - Blackjack Patch	_Blackjack_patch	DICK BJ patch 
 https://www.moddb.com/addons/start/222685	addons\UNISG Overhaul:addons\SEVA Glass Variety	0	Fixed Vanilla Models and Textures
+https://www.moddb.com/addons/start/227255	01 MAIN	0	FVM Nosorogs models
 https://www.moddb.com/addons/start/227529	HDMutants	0	Umbrellord HD mutant models and textures
 https://www.moddb.com/addons/start/214966	Nicer Flashlights Addon v1.7\Nicer Flashlights Addon Imperfect 9	0	Nicer Flashlights
 Animations
@@ -52,7 +53,6 @@ https://www.moddb.com/addons/start/207498	Stealth_2.0	0	Stealth
 https://www.moddb.com/addons/start/201679	0	0	OutfitsAffectsMovespeed
 https://github.com/ahuyn/anomaly-exo/archive/refs/tags/latest.zip	anomaly-exo-latest	0	Powered Exos
 https://github.com/ahuyn/anomaly-exo/archive/refs/tags/latest.zip	anomaly-exo-latest\exo servo patch	_ExoServomotorSounds_patch	Powered Exos
-https://www.moddb.com/addons/start/213840	0	0	ZCP
 https://www.moddb.com/addons/start/223861	0	0	Haruka Skill System
 https://www.moddb.com/addons/start/207876	0	0	Disable Burnt Fuzz
 https://www.moddb.com/addons/start/211466	main	0	Tougher important NPCs and companions
@@ -62,10 +62,10 @@ https://www.moddb.com/addons/start/225217	0	0	Companions carry weight tweak
 https://www.moddb.com/addons/start/224977	Lsz\2_Addons\21_Lsz_Ai_Tweaks	_AI_tweak	Lsz AI tweak
 https://www.moddb.com/addons/start/224977	Lsz\2_Addons\6_Lsz_Levels_Effects	_Remove_special_effects_in_maps	Lsz Levels Effects
 https://www.moddb.com/addons/start/215052	00 Dynamic_NPC_Armor_Visuals	_companions_change_armor	DNPCAV
-https://www.moddb.com/addons/start/194204	0	0	Mutants Bleeding 
+https://www.moddb.com/addons/start/194204        0        0        Mutants Bleeding 
 Stashes
-https://www.moddb.com/addons/start/214163	0	0	New Stashes Location
-https://www.moddb.com/addons/start/213728	0	0	Fixes bugged stashes
+https://www.moddb.com/addons/start/214163	0		New Stashes Location
+https://www.moddb.com/addons/start/213728	0		Fixes bugged stashes
 https://www.moddb.com/addons/start/200140	00. Grok's Stash Overhaul	0	Grok Stash Overhaul
 https://www.moddb.com/addons/start/200140	01. TB Fix Bugged Stashes Patch	_TBFixBuggedStashes_patches	Grok Stash Overhaul TBFix
 https://www.moddb.com/addons/start/200140	OPT. No loot in unmarked stashes	 No loot in unmarked stashes	Grok Stash Overhaul No Loot
@@ -189,7 +189,8 @@ https://www.moddb.com/addons/start/203831	0	0	BatteryWarning
 https://www.moddb.com/addons/start/203787	0	0	Encyclopedia Messages Restored
 https://www.moddb.com/addons/start/212938	0	0	Minimap Toggle
 https://www.moddb.com/addons/start/222680	Free_Zoom	0	Free Zoom
-https://www.moddb.com/addons/start/226172	CrimsonVirus_OCD_fixes_v1.9.5\Encyclopedia_ui_fixes:CrimsonVirus_OCD_fixes_v1.9.5\Dialogue_&_description_edits:CrimsonVirus_OCD_fixes_v1.9.5\Rain_sound_tweak	0	Encyclopedia Fixes
+https://www.moddb.com/addons/start/226172	CrimsonVirus_OCD_fixes_v1.8\Encyclopedia_ui_fixes	0	Encyclopedia Fixes 
+https://www.moddb.com/addons/start/228485	Better Stats Bars	0	Better Stats Bar
 High Priority
 https://www.moddb.com/addons/start/209945	00. Grok's Ballistics Overhaul	0	GBOOBS
 https://www.moddb.com/addons/start/209945	GBOOBS Vanilla Ammo Icons Patch	_Vanilla_ammo_icons_patch	GBOOBS vanilla ammo
@@ -199,8 +200,10 @@ https://www.moddb.com/addons/start/219923	ShaderDrivenScopes - DLTX	0	Shader Dri
 https://www.moddb.com/addons/start/219923	ShaderDrivenScopes - BaS Patch	_BaS_patch	Shader Driven Scopes
 https://www.moddb.com/addons/start/223134	Beef's NVGs	0	Beef's NVG
 https://www.moddb.com/addons/start/223134	Beef's NVGs - Patch (ES AND SSR)	_ES_and_SSR_patches	Beef's NVG
-https://www.moddb.com/addons/start/208407	Cinematicvfx3.6\00. Core (Install Always):Cinematicvfx3.6\01. Blood Option - More Bloody:Cinematicvfx3.6\Bonus 2 - Gauss Sound Sweetener:Cinematicvfx3.6\Bonus 3 - No Frag Rounds Patch:Cinematicvfx3.6\Bonus - Giant Blood Marks on Impact	0	CVFX
+https://www.moddb.com/addons/start/208407	Cinematicvfx3.6\00. Core (Install Always):Cinematicvfx3.6\Bonus 2 - Gauss Sound Sweetener:Cinematicvfx3.6\Bonus 3 - No Frag Rounds Patch	0	CVFX
+https://www.moddb.com/addons/start/226999	Blood of the Zone\2.BOTZ - Cinematic VFX 3.5 1.1	0	Blood of the Zone
 DLTX
+https://www.moddb.com/addons/start/224866	0	0	Better blood decals
 https://www.moddb.com/addons/start/219570	Bigger Surrender Chance_DLTX	_bigger_surrender_chance	DLTX Minimodpack
 https://www.moddb.com/addons/start/219570	Food_Drugs_and_Drinks_EXTRA_ANIMATIONS_DLTX	_FDDA_extra_animations	DLTX Minimodpack
 https://www.moddb.com/addons/start/219570	Drugs Increased Weight Boost_DLTX	_drugs_increased_weight_boost	DLTX Minimodpack
@@ -227,6 +230,8 @@ https://www.moddb.com/addons/start/224324	0	0	Trader Destockifier
 https://www.moddb.com/addons/start/184490	Trader Overhaul (Main Folder)	0	Trader Overhaul
 https://www.moddb.com/addons/start/224947	eft reposition patch:bas_patch:ammo_check	_with_EFT_repos_BAS_patches_and_ammo_check	Mags Redux
 https://www.moddb.com/addons/start/206604	TBLWC\For Level Transition Travel Simulator	_travel_without_confirmation_with_transition_time_simulator	Transition Travel
+https://www.moddb.com/addons/start/228370	0	_other_Merc_voicelines	Better Merc voicelines
+https://www.moddb.com/addons/start/228303	0	0	Jabbers Ironman Roguelite
 Warfare (Optional)
 https://www.moddb.com/addons/start/195178	Warfare Alife Overhaul - Main	0	Warfare A life overhaul
 https://www.moddb.com/addons/start/209072	0	0	Fluid Relations
